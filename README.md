@@ -31,4 +31,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyihyung&show_icons=true&theme=radical  width=48%)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyihyung&show_icons=true&theme=radical)
+<a href="https://github.com/kimyihyung/github-stats">
+ <img src="https://raw.githubusercontent.com/kimyihyung/github-stats/master/generated/languages.svg"/>
+</a>
