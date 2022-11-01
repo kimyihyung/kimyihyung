@@ -32,6 +32,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyihyung&show_icons=true&theme=radical)
-<a href="https://github.com/kimyihyung/github-stats">
- <img src="https://raw.githubusercontent.com/kimyihyung/github-stats/master/generated/languages.svg"/>
-</a>
