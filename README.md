@@ -33,3 +33,7 @@
 </p><br>
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyihyung&layout=compact&theme=react-dark)](https://github.com/kimyihyung/github-readme-stats)<br>
+  
+<a href="https://github.com/kimyihyung/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimyihyung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
+</a>
