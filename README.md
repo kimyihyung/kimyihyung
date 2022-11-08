@@ -8,7 +8,7 @@
   <a href="https://vueclass3.web.app/">뷰 사이트1(https://vueclass3.web.app/)</a>   
   <br>
   <a href="https://reactapi3.netlify.app/">리액트 API 사이트(https://reactapi3.netlify.app/)</a>   
-  <a href="https://vueapi1-d92cf.web.app/">뷰 API 사이트(https://vueapi1-d92cf.web.app//)</a>   
+  <a href="https://vueapi1-d92cf.web.app/">뷰 API 사이트(https://vueapi1-d92cf.web.app/)</a>   
 </div><br>
 👨🏻‍💻 프로그래밍 & 마크업 언어
 <p>
@@ -39,6 +39,7 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </p><br>
+  
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyihyung&layout=compact&theme=react-dark)](https://github.com/kimyihyung/github-readme-stats)<br>
   
 <a href="https://github.com/kimyihyung/github-readme-stats">
